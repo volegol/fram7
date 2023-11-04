@@ -1,4 +1,4 @@
-var url = ['https://sites.google.com/view/iptvold/old'];
+var url = ['https://taraftariumyayin24.pages.dev'];
 
 var rndMax = 1800;
 var s = Math.floor((Math.random() * rndMax) + 1);
